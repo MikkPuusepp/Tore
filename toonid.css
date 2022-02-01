@@ -2,6 +2,23 @@ body{
     background-color: #005700;
     color: white;
 }
+
 .pealkiri{
     text-align: center;
+}
+
+.nupp {
+    margin: 30px;
+    background-color: #d4d4d4;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 160px;
+    height: 60px;
+    color: rgb(8, 88, 32);
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+.valgekarp {
+    background-color: rgb(243, 243, 243);
 }
