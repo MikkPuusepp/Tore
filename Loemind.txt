@@ -1,0 +1,1 @@
+1. Collapse menüül ei toimi toggle nupp (menüü avaneb kuid ei sulgu).
