@@ -1,3 +1,8 @@
-1. Collapse menüül ei toimi toggle nupp (menüü avaneb kuid ei sulgu).
-2. Tekita rollover suum pildile.
+1. Tee tabel
+2. 
+3
 
+
+Collapse menüül ei toimi toggle nupp (menüü avaneb kuid ei sulgu).
+
+Tekita rollover suum pildile.
